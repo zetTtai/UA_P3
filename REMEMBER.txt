@@ -1,0 +1,3 @@
+Hay que instalar mineset-serializer
+Y sqlite-jdbc
+Ambos son .jar --> Java Build Path --> AddExternal JARs
